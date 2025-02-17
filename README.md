@@ -1,5 +1,9 @@
 # L.Gus's Custom Deck Art (a Balatro.. mod?)
 
+![faces-gh-3](https://github.com/user-attachments/assets/4fee0aac-609a-42b8-9ce4-0db9e0b36504)
+
+
+
 **Disclaimer:** Please forgive the blatant copying of verbiage from [jimbos-big-naturals](https://github.com/prettypinkpansy/jimbos-big-naturals). [prettypinkpansy ](https://github.com/prettypinkpansy) did such a good job explaining how to install their mod that we figured we wouldn't try to reinvent the wheel.
 
 L. Gus's Custom Deck Art is a very simple edit of Balatro's existing assets to use custom deck art in place of the standard face cards.
