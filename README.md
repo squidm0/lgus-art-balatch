@@ -16,9 +16,9 @@ This mod does not require any modloaders or anything - installing it is very sim
 
 ### Windows/Steam
 
-1. [Download LGusArtBalatch.zip from the latest releases here.](https://github.com/squidm0/lgus-art-balatch/releases/latest)
+1. [Download LGusArtMod.zip from the latest releases here.](https://github.com/squidm0/lgus-art-balatch/releases/latest)
 2. **Navigate to your Balatro installation folder.** This is probably something like `C:\Program Files (x86)\Steam\steamapps\common\Balatro`.
-3. **Extract LGusArtBalatch.zip.** You should have a folder in your Balatro directory now.
+3. **Extract LGusArtMod.zip.** You should have a folder in your Balatro directory now.
 4. **Right click on `Balatro.exe` in your Balatro installation folder**. A reminder you'll need 7zip or similar for this. You may need to click "Show more options" on later versions of Windows. Under the options it should say 7zip. Hover over it to reveal some options.
 ![LGus-Art-SS-1](https://github.com/user-attachments/assets/36396cdd-b8ff-462d-8611-1b176cbf1948)
 
