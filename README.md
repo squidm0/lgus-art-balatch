@@ -6,7 +6,7 @@
 
 L. Gus's Custom Deck Art is a very simple edit of Balatro's existing assets to use custom deck art in place of the standard face cards.
 
-The art swap only works with the non-high-contrast deck. It has not been tested with collab art decks, but it seems likely that it will work fine.
+The art swap works with both the standard and high-contrast decks. It has not been tested with collab art decks, but it seems likely that it will work fine.
 
 ## Installation
 
